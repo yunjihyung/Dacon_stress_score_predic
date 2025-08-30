@@ -31,10 +31,10 @@ C:.
 ## 3. 개발환경
 ```
   OS :  Window 11
-
+  python : 3.10
 ```
 
 ## 4. 데이터셋
-```
+
   [Dacon - stress_score](https://dacon.io/competitions/official/236526/data)
-```
+
