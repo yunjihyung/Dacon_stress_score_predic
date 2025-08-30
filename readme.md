@@ -8,7 +8,8 @@
 
 ### 1-1. 저장소 코드 복사 
 ```
-  git clone https://github.com/yunjihyung/Dacon_stress_score_predic.git
+git clone https://github.com/yunjihyung/Dacon_stress_score_predic.git
+cd Dacon_stress_score_predic
 ```
 ### 1-2. 패키지 설치
 ```
@@ -35,5 +36,5 @@ C:.
 
 ## 4. 데이터셋
 ```
-  [Dacon - stress_score](https://dacon.io/competitions/official/236526/data
+  [Dacon - stress_score](https://dacon.io/competitions/official/236526/data)
 ```
