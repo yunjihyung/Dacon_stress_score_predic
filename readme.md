@@ -1,5 +1,6 @@
   # 데이콘 Basic 스트레스 지수 예측 대회
 ### 데이콘 해커톤 | 알고리즘 | 입문 | 정형 | 회귀 | MAE
+![images](https://github.com/user-attachments/assets/87168c5a-4b14-42a1-b72b-84eac3080654)
 
 * public score (1st) : 0.13325
 * private score (1st) : 0.13413
